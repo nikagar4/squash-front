@@ -103,7 +103,7 @@ Create React App is divided into two packages:
 
 You almost never need to update `create-react-app` itself: it delegates all the setup to `react-scripts`.
 
-When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
+When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll gset all the new features and improvements in newly created apps automatically.
 
 To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md), find the version you’re currently on (check `package.json` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
 
@@ -128,12 +128,45 @@ my-app/
     index.html
     favicon.ico
   src/
-    App.css
-    App.js
-    App.test.js
-    index.css
+    app/
+      app.scss
+      app.min.css
+      App.js
+      App.test.js
+      logo.svg
+    assets/
+      img/
+        01.png
+        02.png
+        03.png
+        04.png
+        05.png
+        06.png
+        07.png
+        08.png
+        09.png
+        10.jpg
+        app-store.png
+        arrow-left.png
+        arrow-right.png
+        banner-line.png
+        camera.png
+        fb.png
+        google-play.png
+        heart.jpg
+        ig.png
+        logo.png
+        red-heart.png
+        small-heart.png
+        user-avatar.png
+        vintage.png
+        zoom.png
+    build/
+      tasks/
+        build.js
+      main.js
     index.js
-    logo.svg
+    gulpfile.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
@@ -188,6 +221,10 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+### 'gulp build'
+Builds all scss files to src/app/app.min.css
+Might add some other tasks in future
 
 ## Supported Language Features and Polyfills
 
