@@ -1,0 +1,84 @@
+.wan-banner-container {
+	overflow: hidden;
+	width: calc(100% - 240px);
+	text-align: left;
+	display: inline-block;
+	padding: 0 120px;
+	height: 490px;
+
+	.banner-wrapper {
+
+		.image-wrapper {
+			width: 50%;
+			display: inline-block;
+			float: left;
+			position: relative;
+
+			.main-banner {
+				display: inline-block;
+				float: left;
+			}
+
+			.background-banner {
+				opacity: 0.1;
+				position: absolute;
+				top: 45px;
+				left: 85px;
+				z-index: -1;
+			}
+		}
+		
+		.banner-ui {
+			width: calc(50% - 60px);
+			display: inline-block;
+			float: left;
+			padding: 0 30px;
+
+			h1 {
+				font-size: 30px;
+				font-weight: bold;
+				margin: 20px 0;
+			}
+
+			> img {
+				margin: 20px 0;
+			}
+
+			> button {
+				width: 252px;
+				margin: 20px 0;
+				height: 60px;
+				text-transform: uppercase;
+				background: none;
+				border: 1px solid #000;
+				font-weight: bold;
+				display: block;
+			}
+
+			.banner-switcher {
+				margin-top: 150px;
+
+				i {
+					font-size: 30px;
+					color: #999;
+					margin: 0 10px;
+
+					> span {
+						font-size: 1.2em;
+						color: #000;
+					}
+				}
+
+				> button{
+					background: none;
+					border: none;
+					outline: none;
+
+					img {
+						width: 50px;
+					}
+				}
+			}
+		}
+	}
+}

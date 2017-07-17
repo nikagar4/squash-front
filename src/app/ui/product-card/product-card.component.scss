@@ -1,0 +1,94 @@
+.wan-product-card {
+	width: 20%;
+	max-width: 297px;
+	font-size: 13px;
+	overflow: hidden;
+	
+	> .image-wrapper {
+		overflow: hidden;
+		height: 305px; // TODO: this should grow proportionally in future or picture size must be static
+		vertical-align: top;
+		position: relative;
+
+		> img {
+			width: 106%;
+		}
+
+		> .card-ui {
+			@include transition(0.5s);
+			height: 79px;
+			position: absolute;
+			right: 0;
+			bottom: -79px;
+			left: 0;
+			color: #fff;
+			
+			&.active {
+				transform: translate(0, -79px);
+			}
+
+			.info {
+				display: inline-block;
+				float: left;
+				width: calc(60% - 26px);
+				height: calc(100% - 26px);
+				background: rgba(0,0,0,0.5);
+				text-align: left;
+				padding: 13px;
+
+				> p {
+					font-size: 13px;
+					margin: 0;
+				}
+
+				> span {
+					display: block;
+					margin-top: 12px;
+
+					img {
+						margin-right: 10px;
+						float: left;
+					}
+				}
+			}
+
+			button {
+				display: inline-block;
+				float: left;
+				width: 40%;
+				height: 100%;
+				background: rgba(0, 0, 0, 0.8);
+				border: none;
+				color: #fff;
+			}
+		}
+	}
+	> .content-container {
+		overflow: hidden;
+		margin: 10px 0 0 0;
+		
+		> .info-container {
+			display: inline-block;
+			text-align: left;
+			float: left;
+
+			> h1 {
+				margin: 16px 0;
+				font-size: 1em;
+			}
+
+			> p {
+				font-size: 1em;
+			}
+		}
+
+		> button {
+			display: inline-block;
+			float: right;
+			background: none;
+			border: none;
+			margin: 20px 0;
+		}
+	}
+	
+}

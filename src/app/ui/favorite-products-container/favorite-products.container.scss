@@ -1,0 +1,30 @@
+.wan-favorite-products-container {
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+	display: inline-block;
+	font-size: 14px;
+
+	h1 {
+		margin: 15px 0;
+		font-size: 1.6em;
+	}
+
+	h2 {
+		margin: 13px 0;
+		font-size: 1em;
+	}
+
+	.products {
+		width: 100%;
+		max-width: 1600px;
+		overflow: hidden;
+		display: inline-block;
+		margin: 50px 0;
+		
+		.wan-product-card {
+			display: inline-block;
+			margin: 0 20px;
+		}
+	}
+}

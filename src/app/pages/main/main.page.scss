@@ -1,0 +1,28 @@
+.main-page {
+	text-align: center;
+
+	.top-rated-section {
+		margin-top: 27px;
+
+		> h1 {
+			font-size: 17px;
+			font-weight: normal;
+			margin: 17px 0;
+		}
+
+		> span {
+			display: block;
+			font-size: 17px;
+			margin: 17px 0;
+		}
+
+		> .banner-container {
+			display: inline-block;
+			width: 100%;
+			max-width: 1600px;
+			overflow: hidden;
+			text-align: left;
+			display: inline-block;
+		}
+	}
+}

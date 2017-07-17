@@ -1,0 +1,31 @@
+.wan-main-products-container {
+	text-align: center;
+	width: 100%;
+	overflow: hidden;
+	display: inline-block;
+	background: #f9f9f9;
+	padding: 80px 0;
+	
+	.products {
+		width: 100%;
+		overflow: hidden;
+		max-width: 1600px;
+		display: inline-block;
+		
+		.wan-product-card {
+			display: inline-block;
+			margin: 0 20px;
+		}
+	}
+
+	> button {
+		width: 252px;
+		height: 60px;
+		text-transform: uppercase;
+		background: none;
+		border: 1px solid #000;
+		font-weight: bold;
+		display: block;
+		margin: 0 auto;
+	}
+}

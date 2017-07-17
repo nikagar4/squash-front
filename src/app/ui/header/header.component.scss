@@ -1,0 +1,97 @@
+.wan-header {
+	overflow: hidden;
+	display: block;
+	background: #f9f9f9;
+
+	.wan-header-logo {
+
+		> img {
+			max-width: 200px;
+			max-height: 106px;
+			padding: 25.5px 56px 25.5px 55px;
+			background: #ff0000;
+			display: inline-block;
+			float: left;
+		}
+	}
+
+	> nav {
+		overflow: hidden;
+		text-align: center;
+
+		> .wan-search {
+			display: inline-block;
+			box-sizing: border-box;
+			background: none;
+			border: none;
+			border-bottom: 1px solid #ebebeb;
+			margin: 35px 0;
+			max-width: 310px;
+			width: 310px;
+			background: url(../assets/img/zoom.png) no-repeat;
+			background-position: 10px;
+			height: 36px;
+
+			&:focus {
+				background: none;
+				outline: none;
+			}
+
+			&.dirty {
+				background: none;
+			}
+		}
+
+		> .wan-user-info {
+			display: inline-block;
+			float: right;
+			margin: 0;
+			padding: 0 100px 0 0;
+			vertical-align: top;
+
+			> li {
+				display: inline-block;
+				float: left;
+				margin: 4px 0;
+				padding: 33.5px 0;
+				min-height: 31px;
+
+				> div {
+					margin: 5px 0;
+					padding: 0 18px;
+					border-right: 1px solid #000;
+					display: inline-block;
+					max-height: 19px;
+
+					> .logo-container{
+						border-radius: 50%;
+						width: 54px;
+						height: 54px;
+						overflow: hidden;
+						display: inline-block;
+						float: left;
+						position: relative;
+						margin: -15px 18px 0 0;
+					
+						img {
+							position: absolute;
+							width: 225%;
+							top: -26px;
+							left: -34px;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 1525px) {
+	.wan-header {
+		> nav {
+			.wan-search {
+				display: none;
+			}
+		}
+	}
+}

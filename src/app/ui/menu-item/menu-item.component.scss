@@ -1,0 +1,12 @@
+.wan-menu-item {
+
+	a {
+		text-decoration: none;
+		color: #000;
+		font-size: 14px;
+
+		&.active {
+			color: #ff0000;
+		}
+	}
+}
