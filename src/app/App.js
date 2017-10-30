@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
-import {
-  HashRouter,
-  Route
-} from "react-router-dom";
+import { HashRouter, Route } from 'react-router-dom';
 
 import {
   MainPage,
   WomenPage,
   MenPage,
   KidsPage,
-  OtherPage
-} from "./pages/index";
+  OtherPage,
+} from './pages/index';
 import './app.min.css';
 
 class App extends Component {

@@ -1,3 +1,3 @@
-import MainProductsContainer from "./main-products.container";
+import MainProductsContainer from './main-products.container';
 
-export { MainProductsContainer }
+export { MainProductsContainer };

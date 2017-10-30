@@ -1,17 +1,15 @@
-import React from "react";
+import React from 'react';
 
-import { Header, Footer } from "../../ui/index";
+import { Header, Footer } from '../../ui/index';
 
 export default class WomenPage extends React.Component {
-    render() {
-        return (
-            <div>
-                <Header />
-                <main>
-                    Women Content
-                </main>
-                <Footer/>
-            </div>
-        );
-    }
+  render() {
+    return (
+      <div>
+        <Header />
+        <main>Women Content</main>
+        <Footer />
+      </div>
+    );
+  }
 }

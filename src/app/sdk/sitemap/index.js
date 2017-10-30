@@ -1,3 +1,3 @@
-import sitemapReducer from "./sitemap.reducer";
-import { sitemapAction } from "./sitemap.action";
-export { sitemapReducer, sitemapAction }
+import sitemapReducer from './sitemap.reducer';
+import { sitemapAction } from './sitemap.action';
+export { sitemapReducer, sitemapAction };

@@ -1,17 +1,15 @@
-import React from "react";
+import React from 'react';
 
-import { Header, Footer } from "../../ui/index";
+import { Header, Footer } from '../../ui/index';
 
 export default class OtherPage extends React.Component {
-    render() {
-        return (
-            <div>
-                <Header />
-                <main>
-                    Other Content
-                </main>
-                <Footer/>
-            </div>
-        );
-    }
+  render() {
+    return (
+      <div>
+        <Header />
+        <main>Other Content</main>
+        <Footer />
+      </div>
+    );
+  }
 }

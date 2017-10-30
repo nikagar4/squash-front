@@ -1,3 +1,3 @@
-import KidsPage from "./kids.page";
+import KidsPage from './kids.page';
 
-export { KidsPage }
+export { KidsPage };

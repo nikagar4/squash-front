@@ -1,3 +1,3 @@
-import WomenPage from "./women.page";
+import WomenPage from './women.page';
 
-export { WomenPage }
+export { WomenPage };

@@ -1,1 +1,420 @@
-.clickable{cursor:pointer}.invisible{display:none}.wan-banner-container{overflow:hidden;width:calc(100% - 240px);text-align:left;display:inline-block;padding:0 120px;height:490px}.wan-banner-container .banner-wrapper .image-wrapper{width:50%;display:inline-block;float:left;position:relative}.wan-banner-container .banner-wrapper .image-wrapper .main-banner{display:inline-block;float:left}.wan-banner-container .banner-wrapper .image-wrapper .background-banner{opacity:.1;position:absolute;top:45px;left:85px;z-index:-1}.wan-banner-container .banner-wrapper .banner-ui{width:calc(50% - 60px);display:inline-block;float:left;padding:0 30px}.wan-banner-container .banner-wrapper .banner-ui h1{font-size:30px;font-weight:700;margin:20px 0}.wan-banner-container .banner-wrapper .banner-ui>img{margin:20px 0}.wan-banner-container .banner-wrapper .banner-ui>button{width:252px;margin:20px 0;height:60px;text-transform:uppercase;background:0 0;border:1px solid #000;font-weight:700;display:block}.wan-banner-container .banner-wrapper .banner-ui .banner-switcher{margin-top:150px}.wan-banner-container .banner-wrapper .banner-ui .banner-switcher i{font-size:30px;color:#999;margin:0 10px}.wan-banner-container .banner-wrapper .banner-ui .banner-switcher i>span{font-size:1.2em;color:#000}.wan-banner-container .banner-wrapper .banner-ui .banner-switcher>button{background:0 0;border:none;outline:0}.wan-banner-container .banner-wrapper .banner-ui .banner-switcher>button img{width:50px}.wan-favorite-products-container{text-align:center;overflow:hidden;width:100%;display:inline-block;font-size:14px}.wan-favorite-products-container h1{margin:15px 0;font-size:1.6em}.wan-favorite-products-container h2{margin:13px 0;font-size:1em}.wan-favorite-products-container .products{width:100%;max-width:1600px;overflow:hidden;display:inline-block;margin:50px 0}.wan-favorite-products-container .products .wan-product-card{display:inline-block;margin:0 20px}.wan-footer{background:#000;height:218px;text-align:center;color:#494949}.wan-footer .footer-container{max-width:1600px;width:100%;text-align:center;display:inline-block;overflow:hidden;padding:60px 0 50px}.wan-footer .footer-container .subscribe-container{display:inline-block;float:left}.wan-footer .footer-container .subscribe-container .app a{margin:0 10px;display:inline-block}.wan-footer .footer-container .subscribe-container .app a img{width:100%}.wan-footer .footer-container .subscribe-container .app a:first-of-type{margin-left:0}.wan-footer .footer-container .subscribe-container .app a:last-of-type{margin-right:0}.wan-footer .footer-container .subscribe-container .mail{text-align:left;color:#494949}.wan-footer .footer-container .subscribe-container .mail p{color:#fff;font-size:14px}.wan-footer .footer-container .subscribe-container .mail input{border:none;border-bottom:1px solid #494949;background:0 0;width:230px}.wan-footer .footer-container .subscribe-container .mail .subscribe-button{background:0 0;border:none;display:inline-block;margin-left:-45px}.wan-footer .footer-container .site-map-container{display:inline-block;float:left;margin-left:65px}.wan-footer .footer-container .site-map-container .site-map{text-align:left}.wan-header>nav,.wan-main-products-container{text-align:center;overflow:hidden}.wan-footer .footer-container .site-map-container .site-map ul{padding-left:17px}.wan-footer .footer-container .site-map-container .site-map ul>li{color:#fff}.wan-footer .footer-container .site-map-container .site-map ul>li a{color:#494949;text-decoration:none}.wan-footer .footer-container .social-container{display:inline-block;float:right;color:#fff}.wan-footer .footer-container .social-container small{font-size:14px;display:inline-block;float:left;margin:8px 0 0}.wan-footer .footer-container .social-container .social-icons{display:inline-block;float:left}.wan-footer .footer-container .social-container .social-icons a{margin:0 20px}.wan-header{overflow:hidden;display:block;background:#f9f9f9}.wan-header .wan-header-logo>img{max-width:200px;max-height:106px;padding:25.5px 56px 25.5px 55px;background:red;display:inline-block;float:left}.wan-header>nav>.wan-search{display:inline-block;box-sizing:border-box;border:none;border-bottom:1px solid #ebebeb;margin:35px 0;max-width:310px;width:310px;background:url(../assets/img/zoom.png) 10px no-repeat;height:36px}.wan-header>nav>.wan-search:focus{background:0 0;outline:0}.wan-header>nav>.wan-search.dirty{background:0 0}.wan-header>nav>.wan-user-info{display:inline-block;float:right;margin:0;padding:0 100px 0 0;vertical-align:top}.wan-header>nav>.wan-user-info>li{display:inline-block;float:left;margin:4px 0;padding:33.5px 0;min-height:31px}.wan-header>nav>.wan-user-info>li>div{margin:5px 0;padding:0 18px;border-right:1px solid #000;display:inline-block;max-height:19px}.wan-header>nav>.wan-user-info>li>div>.logo-container{border-radius:50%;width:54px;height:54px;overflow:hidden;display:inline-block;float:left;position:relative;margin:-15px 18px 0 0}.wan-header>nav>.wan-user-info>li>div>.logo-container img{position:absolute;width:225%;top:-26px;left:-34px}@media (max-width:1525px){.wan-header>nav .wan-search{display:none}}.wan-main-products-container{width:100%;display:inline-block;background:#f9f9f9;padding:80px 0}.wan-main-products-container .products{width:100%;overflow:hidden;max-width:1600px;display:inline-block}.wan-main-products-container .products .wan-product-card{display:inline-block;margin:0 20px}.wan-main-products-container>button{width:252px;height:60px;text-transform:uppercase;background:0 0;border:1px solid #000;font-weight:700;display:block;margin:0 auto}.wan-menu-container{display:inline-block;float:left;margin:0;padding:0 0 0 17px;vertical-align:top}.wan-menu-container>li{display:inline-block;float:left;padding:43.5px 43px}.wan-menu-item a{text-decoration:none;color:#000;font-size:14px}.wan-menu-item a.active{color:red}.wan-product-card{width:20%;max-width:297px;font-size:13px;overflow:hidden}.wan-product-card>.image-wrapper{overflow:hidden;height:305px;vertical-align:top;position:relative}.wan-product-card>.image-wrapper>img{width:106%}.wan-product-card>.image-wrapper>.card-ui{transition:.5s;height:79px;position:absolute;right:0;bottom:-79px;left:0;color:#fff}.wan-product-card>.image-wrapper>.card-ui.active{transform:translate(0,-79px)}.wan-product-card>.image-wrapper>.card-ui .info{display:inline-block;float:left;width:calc(60% - 26px);height:calc(100% - 26px);background:rgba(0,0,0,.5);text-align:left;padding:13px}.wan-product-card>.image-wrapper>.card-ui .info>p{font-size:13px;margin:0}.wan-product-card>.image-wrapper>.card-ui .info>span{display:block;margin-top:12px}.wan-product-card>.image-wrapper>.card-ui .info>span img{margin-right:10px;float:left}.wan-product-card>.image-wrapper>.card-ui button{display:inline-block;float:left;width:40%;height:100%;background:rgba(0,0,0,.8);border:none;color:#fff}.wan-product-card>.content-container{overflow:hidden;margin:10px 0 0}.wan-product-card>.content-container>.info-container{display:inline-block;text-align:left;float:left}.wan-product-card>.content-container>.info-container>h1{margin:16px 0;font-size:1em}.wan-product-card>.content-container>.info-container>p{font-size:1em}.wan-product-card>.content-container>button{display:inline-block;float:right;background:0 0;border:none;margin:20px 0}.main-page{text-align:center}.main-page .top-rated-section{margin-top:27px}.main-page .top-rated-section>h1{font-size:17px;font-weight:400;margin:17px 0}.main-page .top-rated-section>span{display:block;font-size:17px;margin:17px 0}.main-page .top-rated-section>.banner-container{width:100%;max-width:1600px;overflow:hidden;text-align:left;display:inline-block}body{margin:0;padding:0;font-family:sans-serif}
+.clickable {
+  cursor: pointer;
+}
+.invisible {
+  display: none;
+}
+.wan-banner-container {
+  overflow: hidden;
+  width: calc(100% - 240px);
+  text-align: left;
+  display: inline-block;
+  padding: 0 120px;
+  height: 490px;
+}
+.wan-banner-container .banner-wrapper .image-wrapper {
+  width: 50%;
+  display: inline-block;
+  float: left;
+  position: relative;
+}
+.wan-banner-container .banner-wrapper .image-wrapper .main-banner {
+  display: inline-block;
+  float: left;
+}
+.wan-banner-container .banner-wrapper .image-wrapper .background-banner {
+  opacity: 0.1;
+  position: absolute;
+  top: 45px;
+  left: 85px;
+  z-index: -1;
+}
+.wan-banner-container .banner-wrapper .banner-ui {
+  width: calc(50% - 60px);
+  display: inline-block;
+  float: left;
+  padding: 0 30px;
+}
+.wan-banner-container .banner-wrapper .banner-ui h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+.wan-banner-container .banner-wrapper .banner-ui > img {
+  margin: 20px 0;
+}
+.wan-banner-container .banner-wrapper .banner-ui > button {
+  width: 252px;
+  margin: 20px 0;
+  height: 60px;
+  text-transform: uppercase;
+  background: 0 0;
+  border: 1px solid #000;
+  font-weight: 700;
+  display: block;
+}
+.wan-banner-container .banner-wrapper .banner-ui .banner-switcher {
+  margin-top: 150px;
+}
+.wan-banner-container .banner-wrapper .banner-ui .banner-switcher i {
+  font-size: 30px;
+  color: #999;
+  margin: 0 10px;
+}
+.wan-banner-container .banner-wrapper .banner-ui .banner-switcher i > span {
+  font-size: 1.2em;
+  color: #000;
+}
+.wan-banner-container .banner-wrapper .banner-ui .banner-switcher > button {
+  background: 0 0;
+  border: none;
+  outline: 0;
+}
+.wan-banner-container .banner-wrapper .banner-ui .banner-switcher > button img {
+  width: 50px;
+}
+.wan-favorite-products-container {
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  display: inline-block;
+  font-size: 14px;
+}
+.wan-favorite-products-container h1 {
+  margin: 15px 0;
+  font-size: 1.6em;
+}
+.wan-favorite-products-container h2 {
+  margin: 13px 0;
+  font-size: 1em;
+}
+.wan-favorite-products-container .products {
+  width: 100%;
+  max-width: 1600px;
+  overflow: hidden;
+  display: inline-block;
+  margin: 50px 0;
+}
+.wan-favorite-products-container .products .wan-product-card {
+  display: inline-block;
+  margin: 0 20px;
+}
+.wan-footer {
+  background: #000;
+  height: 218px;
+  text-align: center;
+  color: #494949;
+}
+.wan-footer .footer-container {
+  max-width: 1600px;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  padding: 60px 0 50px;
+}
+.wan-footer .footer-container .subscribe-container {
+  display: inline-block;
+  float: left;
+}
+.wan-footer .footer-container .subscribe-container .app a {
+  margin: 0 10px;
+  display: inline-block;
+}
+.wan-footer .footer-container .subscribe-container .app a img {
+  width: 100%;
+}
+.wan-footer .footer-container .subscribe-container .app a:first-of-type {
+  margin-left: 0;
+}
+.wan-footer .footer-container .subscribe-container .app a:last-of-type {
+  margin-right: 0;
+}
+.wan-footer .footer-container .subscribe-container .mail {
+  text-align: left;
+  color: #494949;
+}
+.wan-footer .footer-container .subscribe-container .mail p {
+  color: #fff;
+  font-size: 14px;
+}
+.wan-footer .footer-container .subscribe-container .mail input {
+  border: none;
+  border-bottom: 1px solid #494949;
+  background: 0 0;
+  width: 230px;
+}
+.wan-footer .footer-container .subscribe-container .mail .subscribe-button {
+  background: 0 0;
+  border: none;
+  display: inline-block;
+  margin-left: -45px;
+}
+.wan-footer .footer-container .site-map-container {
+  display: inline-block;
+  float: left;
+  margin-left: 65px;
+}
+.wan-footer .footer-container .site-map-container .site-map {
+  text-align: left;
+}
+.wan-header > nav,
+.wan-main-products-container {
+  text-align: center;
+  overflow: hidden;
+}
+.wan-footer .footer-container .site-map-container .site-map ul {
+  padding-left: 17px;
+}
+.wan-footer .footer-container .site-map-container .site-map ul > li {
+  color: #fff;
+}
+.wan-footer .footer-container .site-map-container .site-map ul > li a {
+  color: #494949;
+  text-decoration: none;
+}
+.wan-footer .footer-container .social-container {
+  display: inline-block;
+  float: right;
+  color: #fff;
+}
+.wan-footer .footer-container .social-container small {
+  font-size: 14px;
+  display: inline-block;
+  float: left;
+  margin: 8px 0 0;
+}
+.wan-footer .footer-container .social-container .social-icons {
+  display: inline-block;
+  float: left;
+}
+.wan-footer .footer-container .social-container .social-icons a {
+  margin: 0 20px;
+}
+.wan-header {
+  overflow: hidden;
+  display: block;
+  background: #f9f9f9;
+}
+.wan-header .wan-header-logo > img {
+  max-width: 200px;
+  max-height: 106px;
+  padding: 25.5px 56px 25.5px 55px;
+  background: red;
+  display: inline-block;
+  float: left;
+}
+.wan-header > nav > .wan-search {
+  display: inline-block;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #ebebeb;
+  margin: 35px 0;
+  max-width: 310px;
+  width: 310px;
+  background: url(../assets/img/zoom.png) 10px no-repeat;
+  height: 36px;
+}
+.wan-header > nav > .wan-search:focus {
+  background: 0 0;
+  outline: 0;
+}
+.wan-header > nav > .wan-search.dirty {
+  background: 0 0;
+}
+.wan-header > nav > .wan-user-info {
+  display: inline-block;
+  float: right;
+  margin: 0;
+  padding: 0 100px 0 0;
+  vertical-align: top;
+}
+.wan-header > nav > .wan-user-info > li {
+  display: inline-block;
+  float: left;
+  margin: 4px 0;
+  padding: 33.5px 0;
+  min-height: 31px;
+}
+.wan-header > nav > .wan-user-info > li > div {
+  margin: 5px 0;
+  padding: 0 18px;
+  border-right: 1px solid #000;
+  display: inline-block;
+  max-height: 19px;
+}
+.wan-header > nav > .wan-user-info > li > div > .logo-container {
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+  display: inline-block;
+  float: left;
+  position: relative;
+  margin: -15px 18px 0 0;
+}
+.wan-header > nav > .wan-user-info > li > div > .logo-container img {
+  position: absolute;
+  width: 225%;
+  top: -26px;
+  left: -34px;
+}
+@media (max-width: 1525px) {
+  .wan-header > nav .wan-search {
+    display: none;
+  }
+}
+.wan-main-products-container {
+  width: 100%;
+  display: inline-block;
+  background: #f9f9f9;
+  padding: 80px 0;
+}
+.wan-main-products-container .products {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1600px;
+  display: inline-block;
+}
+.wan-main-products-container .products .wan-product-card {
+  display: inline-block;
+  margin: 0 20px;
+}
+.wan-main-products-container > button {
+  width: 252px;
+  height: 60px;
+  text-transform: uppercase;
+  background: 0 0;
+  border: 1px solid #000;
+  font-weight: 700;
+  display: block;
+  margin: 0 auto;
+}
+.wan-menu-container {
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 0 0 0 17px;
+  vertical-align: top;
+}
+.wan-menu-container > li {
+  display: inline-block;
+  float: left;
+  padding: 43.5px 43px;
+}
+.wan-menu-item a {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+.wan-menu-item a.active {
+  color: red;
+}
+.wan-product-card {
+  width: 20%;
+  max-width: 297px;
+  font-size: 13px;
+  overflow: hidden;
+}
+.wan-product-card > .image-wrapper {
+  overflow: hidden;
+  height: 305px;
+  vertical-align: top;
+  position: relative;
+}
+.wan-product-card > .image-wrapper > img {
+  width: 106%;
+}
+.wan-product-card > .image-wrapper > .card-ui {
+  transition: 0.5s;
+  height: 79px;
+  position: absolute;
+  right: 0;
+  bottom: -79px;
+  left: 0;
+  color: #fff;
+}
+.wan-product-card > .image-wrapper > .card-ui.active {
+  transform: translate(0, -79px);
+}
+.wan-product-card > .image-wrapper > .card-ui .info {
+  display: inline-block;
+  float: left;
+  width: calc(60% - 26px);
+  height: calc(100% - 26px);
+  background: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  padding: 13px;
+}
+.wan-product-card > .image-wrapper > .card-ui .info > p {
+  font-size: 13px;
+  margin: 0;
+}
+.wan-product-card > .image-wrapper > .card-ui .info > span {
+  display: block;
+  margin-top: 12px;
+}
+.wan-product-card > .image-wrapper > .card-ui .info > span img {
+  margin-right: 10px;
+  float: left;
+}
+.wan-product-card > .image-wrapper > .card-ui button {
+  display: inline-block;
+  float: left;
+  width: 40%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  border: none;
+  color: #fff;
+}
+.wan-product-card > .content-container {
+  overflow: hidden;
+  margin: 10px 0 0;
+}
+.wan-product-card > .content-container > .info-container {
+  display: inline-block;
+  text-align: left;
+  float: left;
+}
+.wan-product-card > .content-container > .info-container > h1 {
+  margin: 16px 0;
+  font-size: 1em;
+}
+.wan-product-card > .content-container > .info-container > p {
+  font-size: 1em;
+}
+.wan-product-card > .content-container > button {
+  display: inline-block;
+  float: right;
+  background: 0 0;
+  border: none;
+  margin: 20px 0;
+}
+.main-page {
+  text-align: center;
+}
+.main-page .top-rated-section {
+  margin-top: 27px;
+}
+.main-page .top-rated-section > h1 {
+  font-size: 17px;
+  font-weight: 400;
+  margin: 17px 0;
+}
+.main-page .top-rated-section > span {
+  display: block;
+  font-size: 17px;
+  margin: 17px 0;
+}
+.main-page .top-rated-section > .banner-container {
+  width: 100%;
+  max-width: 1600px;
+  overflow: hidden;
+  text-align: left;
+  display: inline-block;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}

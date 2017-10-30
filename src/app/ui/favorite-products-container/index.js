@@ -1,3 +1,3 @@
-import FavoriteProductsContainer from "./favorite-products.container";
+import FavoriteProductsContainer from './favorite-products.container';
 
-export { FavoriteProductsContainer }
+export { FavoriteProductsContainer };

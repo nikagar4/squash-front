@@ -1,8 +1,7 @@
-var gulp = require("gulp");
+var gulp = require('gulp');
 
 require('require-dir')('./tasks');
 
-gulp.task("default", () => {
-	console.log(`======== Squash ========`);
+gulp.task('default', () => {
+  console.log(`======== Squash ========`);
 });
-
