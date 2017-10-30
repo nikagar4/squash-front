@@ -1,4 +1,4 @@
-import productsReducer from "./products.reducer";
-import { productsAction } from "./products.action";
+import productsReducer from './products.reducer';
+import { productsAction } from './products.action';
 
-export { productsReducer, productsAction }
+export { productsReducer, productsAction };

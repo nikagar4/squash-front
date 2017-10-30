@@ -1,3 +1,3 @@
-import OtherPage from "./other.page";
+import OtherPage from './other.page';
 
-export { OtherPage }
+export { OtherPage };

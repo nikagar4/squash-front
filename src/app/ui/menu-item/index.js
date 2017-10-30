@@ -1,3 +1,3 @@
-import MenuItem from "./menu-item.component";
+import MenuItem from './menu-item.component';
 
-export { MenuItem }
+export { MenuItem };
